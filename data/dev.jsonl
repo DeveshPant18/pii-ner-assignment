@@ -1,0 +1,200 @@
+{"id": "utt_1200", "text": "call me at seven hundred and seventy seven dot 587 dot 7418x56662 regarding the issue", "entities": [{"start": 11, "end": 65, "label": "PHONE"}]}
+{"id": "utt_1201", "text": "reach me at four hundred and ninety seven 691 1644x00025", "entities": [{"start": 12, "end": 56, "label": "PHONE"}]}
+{"id": "utt_1202", "text": "card 4592348726132888 has expired", "entities": [{"start": 5, "end": 21, "label": "CREDIT_CARD"}]}
+{"id": "utt_1203", "text": "i was born on 1997 five 26 in lake tonyside", "entities": [{"start": 14, "end": 26, "label": "DATE"}, {"start": 30, "end": 43, "label": "CITY"}]}
+{"id": "utt_1204", "text": "my name is robert acosta and my email is pricetravis at yahoo dot com", "entities": [{"start": 11, "end": 24, "label": "PERSON_NAME"}, {"start": 41, "end": 69, "label": "EMAIL"}]}
+{"id": "utt_1205", "text": "delivery to 6459 rachel inlet apt dot four hundred and thirty nine in north derek", "entities": [{"start": 12, "end": 66, "label": "LOCATION"}, {"start": 70, "end": 81, "label": "CITY"}]}
+{"id": "utt_1206", "text": "my credit card is 213176982829914", "entities": [{"start": 18, "end": 33, "label": "CREDIT_CARD"}]}
+{"id": "utt_1207", "text": "meet me at 5280 kenneth forks suite 938 for the delivery", "entities": [{"start": 11, "end": 39, "label": "LOCATION"}]}
+{"id": "utt_1208", "text": "charging card number four quintillion sixty one quadrillion four hundred and eighty one trillion seven hundred and forty two billion nine hundred and four million six hundred and twenty five thousand six hundred and forty", "entities": [{"start": 21, "end": 221, "label": "CREDIT_CARD"}]}
+{"id": "utt_1209", "text": "my name is david perez and my email is heidi52 at hotmail dot com", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}, {"start": 39, "end": 65, "label": "EMAIL"}]}
+{"id": "utt_1210", "text": "delivery to 0452 black plaza apt dot seven in gillfurt", "entities": [{"start": 12, "end": 42, "label": "LOCATION"}, {"start": 46, "end": 54, "label": "CITY"}]}
+{"id": "utt_1211", "text": "i was born on 2019 five 03 in jasonville", "entities": [{"start": 14, "end": 26, "label": "DATE"}, {"start": 30, "end": 40, "label": "CITY"}]}
+{"id": "utt_1212", "text": "verify account simskyle at hotmail dot com", "entities": [{"start": 15, "end": 42, "label": "EMAIL"}]}
+{"id": "utt_1213", "text": "verify account molly46 at gmail dot com", "entities": [{"start": 15, "end": 39, "label": "EMAIL"}]}
+{"id": "utt_1214", "text": "payment of three quadrillion five hundred and forty one trillion eleven billion three hundred and thirty three million eight hundred and eighty eight thousand seven hundred and twenty two declined", "entities": [{"start": 11, "end": 187, "label": "CREDIT_CARD"}]}
+{"id": "utt_1215", "text": "my number is 001 825 771 9196x936", "entities": [{"start": 13, "end": 33, "label": "PHONE"}]}
+{"id": "utt_1216", "text": "charging card number 4132513844503503", "entities": [{"start": 21, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "utt_1217", "text": "meet me at 790 heidi wells apt dot nine hundred and five for the delivery", "entities": [{"start": 11, "end": 56, "label": "LOCATION"}]}
+{"id": "utt_1218", "text": "schedule for 2014 05 eleven is confirmed", "entities": [{"start": 13, "end": 27, "label": "DATE"}]}
+{"id": "utt_1219", "text": "schedule for 1980 09 twenty eight is confirmed", "entities": [{"start": 13, "end": 33, "label": "DATE"}]}
+{"id": "utt_1220", "text": "schedule for 1995 01 25 is confirmed", "entities": [{"start": 13, "end": 23, "label": "DATE"}]}
+{"id": "utt_1221", "text": "card three hundred and seventy three trillion one hundred and forty one billion one hundred and forty one million seven hundred and forty four thousand nine hundred and forty seven has expired", "entities": [{"start": 5, "end": 180, "label": "CREDIT_CARD"}]}
+{"id": "utt_1222", "text": "hello this is david ruiz speaking", "entities": [{"start": 14, "end": 24, "label": "PERSON_NAME"}]}
+{"id": "utt_1223", "text": "payment of two quadrillion three hundred and thirty trillion three hundred and forty seven billion five hundred million seven hundred and eighty seven thousand five hundred and thirty eight declined", "entities": [{"start": 11, "end": 189, "label": "CREDIT_CARD"}]}
+{"id": "utt_1224", "text": "use card 2291429630388432 for this", "entities": [{"start": 9, "end": 25, "label": "CREDIT_CARD"}]}
+{"id": "utt_1225", "text": "charging card number 213131256052339", "entities": [{"start": 21, "end": 36, "label": "CREDIT_CARD"}]}
+{"id": "utt_1226", "text": "delivery to six hundred and ninety five mary ports apt dot 749 suite 758 in taylorshire", "entities": [{"start": 12, "end": 72, "label": "LOCATION"}, {"start": 76, "end": 87, "label": "CITY"}]}
+{"id": "utt_1227", "text": "card three quadrillion five hundred and four trillion nine hundred and seventeen billion eight hundred and two million four hundred and one thousand three hundred and twenty three has expired", "entities": [{"start": 5, "end": 179, "label": "CREDIT_CARD"}]}
+{"id": "utt_1228", "text": "meet me at 79422 curtis highway suite 983 apt dot 430 for the delivery", "entities": [{"start": 11, "end": 53, "label": "LOCATION"}]}
+{"id": "utt_1229", "text": "i was born on 1975 05 twenty eight in east michelleside", "entities": [{"start": 14, "end": 34, "label": "DATE"}, {"start": 38, "end": 55, "label": "CITY"}]}
+{"id": "utt_1230", "text": "delivery to 659 valentine station apt dot 230 in moorefort", "entities": [{"start": 12, "end": 45, "label": "LOCATION"}, {"start": 49, "end": 58, "label": "CITY"}]}
+{"id": "utt_1231", "text": "meet me at fifty six thousand seven hundred and eighty eight davis motorway apt dot two hundred and eighty seven for the delivery", "entities": [{"start": 11, "end": 112, "label": "LOCATION"}]}
+{"id": "utt_1232", "text": "payment of three quadrillion five hundred and fourteen trillion four billion seven hundred and ninety four million seven hundred and twenty nine thousand eight hundred and twenty seven declined", "entities": [{"start": 11, "end": 184, "label": "CREDIT_CARD"}]}
+{"id": "utt_1233", "text": "use card 3526085407301845 for this", "entities": [{"start": 9, "end": 25, "label": "CREDIT_CARD"}]}
+{"id": "utt_1234", "text": "reach me at 1 636 520 3993x28254", "entities": [{"start": 12, "end": 32, "label": "PHONE"}]}
+{"id": "utt_1235", "text": "reach me at six hundred and fifty nine hundred and seventy nine 0688x851", "entities": [{"start": 12, "end": 72, "label": "PHONE"}]}
+{"id": "utt_1236", "text": "charging card number 374829159401801", "entities": [{"start": 21, "end": 36, "label": "CREDIT_CARD"}]}
+{"id": "utt_1237", "text": "use card 348217271853914 for this", "entities": [{"start": 9, "end": 24, "label": "CREDIT_CARD"}]}
+{"id": "utt_1238", "text": "call me at 932376 6061 regarding the issue", "entities": [{"start": 11, "end": 22, "label": "PHONE"}]}
+{"id": "utt_1239", "text": "account holder is stacy navarro", "entities": [{"start": 18, "end": 31, "label": "PERSON_NAME"}]}
+{"id": "utt_1240", "text": "schedule for 2010 04 thirteen is confirmed", "entities": [{"start": 13, "end": 29, "label": "DATE"}]}
+{"id": "utt_1241", "text": "i was born on 1985 one eleven in grayport", "entities": [{"start": 14, "end": 29, "label": "DATE"}, {"start": 33, "end": 41, "label": "CITY"}]}
+{"id": "utt_1242", "text": "verify account uvazquez at yahoo dot com", "entities": [{"start": 15, "end": 40, "label": "EMAIL"}]}
+{"id": "utt_1243", "text": "meet me at 578 carr run apt dot two hundred and fifty one for the delivery", "entities": [{"start": 11, "end": 57, "label": "LOCATION"}]}
+{"id": "utt_1244", "text": "my name is mary gray and my email is lambdana at gmail dot com", "entities": [{"start": 11, "end": 20, "label": "PERSON_NAME"}, {"start": 37, "end": 62, "label": "EMAIL"}]}
+{"id": "utt_1245", "text": "charging card number two quadrillion seven hundred and four trillion two hundred and eighty billion seven hundred and sixty four million five hundred and thirty one thousand four hundred and ninety", "entities": [{"start": 21, "end": 197, "label": "CREDIT_CARD"}]}
+{"id": "utt_1246", "text": "call me at 989 seven hundred and five 0180x87454 regarding the issue", "entities": [{"start": 11, "end": 48, "label": "PHONE"}]}
+{"id": "utt_1247", "text": "payment of four quadrillion nine hundred and sixty six trillion six hundred and thirty two billion eight hundred and eleven million nine hundred and twenty six thousand four hundred and forty seven declined", "entities": [{"start": 11, "end": 197, "label": "CREDIT_CARD"}]}
+{"id": "utt_1248", "text": "my number is five hundred and twenty eight dot three hundred and twenty four dot 1212x340", "entities": [{"start": 13, "end": 89, "label": "PHONE"}]}
+{"id": "utt_1249", "text": "charging card number four quadrillion three hundred and ninety six trillion six hundred and eighty eight billion one hundred and seven million five hundred and ninety nine thousand two hundred and thirty one", "entities": [{"start": 21, "end": 207, "label": "CREDIT_CARD"}]}
+{"id": "utt_1250", "text": "payment of three hundred and seventy two trillion ninety six billion three hundred and fifty two million four hundred and fifty two thousand nine hundred and ninety seven declined", "entities": [{"start": 11, "end": 170, "label": "CREDIT_CARD"}]}
+{"id": "utt_1251", "text": "delivery to 01971 miller viaduct apt dot eight hundred and seventy five apt dot seven hundred and twenty six in taylorstad", "entities": [{"start": 12, "end": 108, "label": "LOCATION"}, {"start": 112, "end": 122, "label": "CITY"}]}
+{"id": "utt_1252", "text": "payment of two quadrillion four hundred and thirty five trillion three hundred and fifty four billion twenty nine million six hundred and twenty nine thousand and thirteen declined", "entities": [{"start": 11, "end": 171, "label": "CREDIT_CARD"}]}
+{"id": "utt_1253", "text": "card six hundred and seventy six billion one hundred and sixty three million eighty four thousand six hundred and thirty two has expired", "entities": [{"start": 5, "end": 124, "label": "CREDIT_CARD"}]}
+{"id": "utt_1254", "text": "meet me at 91570 anthony lock suite 291 apt dot 160 for the delivery", "entities": [{"start": 11, "end": 51, "label": "LOCATION"}]}
+{"id": "utt_1255", "text": "delivery to 320 ramos oval suite 671 in ramseyborough", "entities": [{"start": 12, "end": 36, "label": "LOCATION"}, {"start": 40, "end": 53, "label": "CITY"}]}
+{"id": "utt_1256", "text": "my number is 1 646 439 0560x7483", "entities": [{"start": 13, "end": 32, "label": "PHONE"}]}
+{"id": "utt_1257", "text": "schedule for 1981 03 twenty two is confirmed", "entities": [{"start": 13, "end": 31, "label": "DATE"}]}
+{"id": "utt_1258", "text": "my credit card is 6524995046155581", "entities": [{"start": 18, "end": 34, "label": "CREDIT_CARD"}]}
+{"id": "utt_1259", "text": "i was born on 1974 twelve 01 in new kristin", "entities": [{"start": 14, "end": 28, "label": "DATE"}, {"start": 32, "end": 43, "label": "CITY"}]}
+{"id": "utt_1260", "text": "my credit card is 5355068461224245", "entities": [{"start": 18, "end": 34, "label": "CREDIT_CARD"}]}
+{"id": "utt_1261", "text": "card 503855920842 has expired", "entities": [{"start": 5, "end": 17, "label": "CREDIT_CARD"}]}
+{"id": "utt_1262", "text": "account holder is dale reynolds", "entities": [{"start": 18, "end": 31, "label": "PERSON_NAME"}]}
+{"id": "utt_1263", "text": "payment of 4900511305581661 declined", "entities": [{"start": 11, "end": 27, "label": "CREDIT_CARD"}]}
+{"id": "utt_1264", "text": "my name is john mathews and my email is whitecharles at gmail dot com", "entities": [{"start": 11, "end": 23, "label": "PERSON_NAME"}, {"start": 40, "end": 69, "label": "EMAIL"}]}
+{"id": "utt_1265", "text": "charging card number six quadrillion eleven trillion seven hundred and three billion five hundred and eighty million four hundred and fifty four thousand eight hundred and forty four", "entities": [{"start": 21, "end": 182, "label": "CREDIT_CARD"}]}
+{"id": "utt_1266", "text": "my credit card is four quadrillion six hundred and thirty three trillion seven hundred and eighty four billion eight hundred and twenty four million twenty nine thousand seven hundred and thirty six", "entities": [{"start": 18, "end": 198, "label": "CREDIT_CARD"}]}
+{"id": "utt_1267", "text": "meet me at one thousand four hundred and sixty nine morgan expressway suite 510 for the delivery", "entities": [{"start": 11, "end": 79, "label": "LOCATION"}]}
+{"id": "utt_1268", "text": "schedule for 1972 one 05 is confirmed", "entities": [{"start": 13, "end": 24, "label": "DATE"}]}
+{"id": "utt_1269", "text": "my name is joseph luna and my email is lcosta at yahoo dot com", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}, {"start": 39, "end": 62, "label": "EMAIL"}]}
+{"id": "utt_1270", "text": "account holder is karen chavez", "entities": [{"start": 18, "end": 30, "label": "PERSON_NAME"}]}
+{"id": "utt_1271", "text": "charging card number 3545367686949560", "entities": [{"start": 21, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "utt_1272", "text": "payment of four trillion two hundred and ninety one billion six hundred and two million twenty eight thousand five hundred and seventeen declined", "entities": [{"start": 11, "end": 136, "label": "CREDIT_CARD"}]}
+{"id": "utt_1273", "text": "i was born on 1992 04 14 in new tracy", "entities": [{"start": 14, "end": 24, "label": "DATE"}, {"start": 28, "end": 37, "label": "CITY"}]}
+{"id": "utt_1274", "text": "card two quadrillion seven hundred and twelve trillion one hundred and sixty six billion four hundred and thirty three million nine hundred and sixty seven thousand two hundred and fifty eight has expired", "entities": [{"start": 5, "end": 192, "label": "CREDIT_CARD"}]}
+{"id": "utt_1275", "text": "my number is eight hundred and seventy one 885 0478", "entities": [{"start": 13, "end": 51, "label": "PHONE"}]}
+{"id": "utt_1276", "text": "i was born on 1995 12 thirty in ronaldhaven", "entities": [{"start": 14, "end": 28, "label": "DATE"}, {"start": 32, "end": 43, "label": "CITY"}]}
+{"id": "utt_1277", "text": "use card 213166193970730 for this", "entities": [{"start": 9, "end": 24, "label": "CREDIT_CARD"}]}
+{"id": "utt_1278", "text": "schedule for 2020 09 twenty six is confirmed", "entities": [{"start": 13, "end": 31, "label": "DATE"}]}
+{"id": "utt_1279", "text": "card three quadrillion five hundred and fifty trillion three hundred and thirteen billion four hundred and thirty seven million one hundred and fifty nine thousand four hundred and sixteen has expired", "entities": [{"start": 5, "end": 188, "label": "CREDIT_CARD"}]}
+{"id": "utt_1280", "text": "my number is 576 dot 436 dot 1253x1773", "entities": [{"start": 13, "end": 38, "label": "PHONE"}]}
+{"id": "utt_1281", "text": "i was born on 1978 one twenty four in lucashaven", "entities": [{"start": 14, "end": 34, "label": "DATE"}, {"start": 38, "end": 48, "label": "CITY"}]}
+{"id": "utt_1282", "text": "payment of four trillion six hundred and forty two billion one hundred and sixteen million eight hundred and sixteen thousand two hundred and seventy eight declined", "entities": [{"start": 11, "end": 155, "label": "CREDIT_CARD"}]}
+{"id": "utt_1283", "text": "use card two quadrillion two hundred and fifty one trillion three hundred and fifty two billion seventy one million three hundred and fifty nine thousand and fifty for this", "entities": [{"start": 9, "end": 163, "label": "CREDIT_CARD"}]}
+{"id": "utt_1284", "text": "hello this is laura lane speaking", "entities": [{"start": 14, "end": 24, "label": "PERSON_NAME"}]}
+{"id": "utt_1285", "text": "hello this is bruce anderson speaking", "entities": [{"start": 14, "end": 28, "label": "PERSON_NAME"}]}
+{"id": "utt_1286", "text": "card 3502198685319948 has expired", "entities": [{"start": 5, "end": 21, "label": "CREDIT_CARD"}]}
+{"id": "utt_1287", "text": "reach me at 447548 3756x89297", "entities": [{"start": 12, "end": 29, "label": "PHONE"}]}
+{"id": "utt_1288", "text": "payment of 340408026047955 declined", "entities": [{"start": 11, "end": 26, "label": "CREDIT_CARD"}]}
+{"id": "utt_1289", "text": "verify account pearsonmarcus at hotmail dot com", "entities": [{"start": 15, "end": 47, "label": "EMAIL"}]}
+{"id": "utt_1290", "text": "i was born on 1976 four six in new paulmouth", "entities": [{"start": 14, "end": 27, "label": "DATE"}, {"start": 31, "end": 44, "label": "CITY"}]}
+{"id": "utt_1291", "text": "delivery to thirty seven thousand five hundred colleen islands apt dot 870 suite 040 in robinshire", "entities": [{"start": 12, "end": 84, "label": "LOCATION"}, {"start": 88, "end": 98, "label": "CITY"}]}
+{"id": "utt_1292", "text": "use card 30197444817447 for this", "entities": [{"start": 9, "end": 23, "label": "CREDIT_CARD"}]}
+{"id": "utt_1293", "text": "my name is katherine clay and my email is gregoryalexander at gmail dot com", "entities": [{"start": 11, "end": 25, "label": "PERSON_NAME"}, {"start": 42, "end": 75, "label": "EMAIL"}]}
+{"id": "utt_1294", "text": "schedule for 2013 03 27 is confirmed", "entities": [{"start": 13, "end": 23, "label": "DATE"}]}
+{"id": "utt_1295", "text": "schedule for 1983 05 twenty is confirmed", "entities": [{"start": 13, "end": 27, "label": "DATE"}]}
+{"id": "utt_1296", "text": "meet me at 4475 thomas lights suite 365 suite 630 for the delivery", "entities": [{"start": 11, "end": 49, "label": "LOCATION"}]}
+{"id": "utt_1297", "text": "delivery to 414 cohen expressway apt dot 717 in powershaven", "entities": [{"start": 12, "end": 44, "label": "LOCATION"}, {"start": 48, "end": 59, "label": "CITY"}]}
+{"id": "utt_1298", "text": "verify account davismonique at yahoo dot com", "entities": [{"start": 15, "end": 44, "label": "EMAIL"}]}
+{"id": "utt_1299", "text": "reach me at 617379 6797", "entities": [{"start": 12, "end": 23, "label": "PHONE"}]}
+{"id": "utt_1300", "text": "my name is michael carlson and my email is ginaramsey at yahoo dot com", "entities": [{"start": 11, "end": 26, "label": "PERSON_NAME"}, {"start": 43, "end": 70, "label": "EMAIL"}]}
+{"id": "utt_1301", "text": "delivery to ninety eight thousand three hundred and twenty one mejia circles suite two hundred and seventy six in south brandonview", "entities": [{"start": 12, "end": 110, "label": "LOCATION"}, {"start": 114, "end": 131, "label": "CITY"}]}
+{"id": "utt_1302", "text": "account holder is melissa mcintyre", "entities": [{"start": 18, "end": 34, "label": "PERSON_NAME"}]}
+{"id": "utt_1303", "text": "my number is 9824781565", "entities": [{"start": 13, "end": 23, "label": "PHONE"}]}
+{"id": "utt_1304", "text": "payment of four quintillion seven hundred and fifty four quadrillion twenty two trillion eight hundred and fifteen billion fifty three million four hundred and ninety nine thousand nine hundred and ninety five declined", "entities": [{"start": 11, "end": 209, "label": "CREDIT_CARD"}]}
+{"id": "utt_1305", "text": "account holder is dana hess", "entities": [{"start": 18, "end": 27, "label": "PERSON_NAME"}]}
+{"id": "utt_1306", "text": "use card 4660333018357531 for this", "entities": [{"start": 9, "end": 25, "label": "CREDIT_CARD"}]}
+{"id": "utt_1307", "text": "my number is 745 dot seven hundred and ten dot five thousand six hundred and thirty eight", "entities": [{"start": 13, "end": 89, "label": "PHONE"}]}
+{"id": "utt_1308", "text": "verify account jacquelinelopez at hotmail dot com", "entities": [{"start": 15, "end": 49, "label": "EMAIL"}]}
+{"id": "utt_1309", "text": "use card 30399903509032 for this", "entities": [{"start": 9, "end": 23, "label": "CREDIT_CARD"}]}
+{"id": "utt_1310", "text": "charging card number 3514976955527324", "entities": [{"start": 21, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "utt_1311", "text": "my name is derek alvarez and my email is gonzalezthomas at hotmail dot com", "entities": [{"start": 11, "end": 24, "label": "PERSON_NAME"}, {"start": 41, "end": 74, "label": "EMAIL"}]}
+{"id": "utt_1312", "text": "my credit card is four quintillion seven hundred and thirteen quadrillion two hundred and four trillion four hundred and sixty five billion five hundred and seventy six million four hundred and sixty three thousand one hundred and seventy one", "entities": [{"start": 18, "end": 242, "label": "CREDIT_CARD"}]}
+{"id": "utt_1313", "text": "my credit card is 6546476069153963", "entities": [{"start": 18, "end": 34, "label": "CREDIT_CARD"}]}
+{"id": "utt_1314", "text": "my credit card is 3550535149902267", "entities": [{"start": 18, "end": 34, "label": "CREDIT_CARD"}]}
+{"id": "utt_1315", "text": "i was born on 2001 10 two in port michaelview", "entities": [{"start": 14, "end": 25, "label": "DATE"}, {"start": 29, "end": 45, "label": "CITY"}]}
+{"id": "utt_1316", "text": "use card 6011212109789391 for this", "entities": [{"start": 9, "end": 25, "label": "CREDIT_CARD"}]}
+{"id": "utt_1317", "text": "i was born on 1970 04 four in west brendafort", "entities": [{"start": 14, "end": 26, "label": "DATE"}, {"start": 30, "end": 45, "label": "CITY"}]}
+{"id": "utt_1318", "text": "schedule for 2018 one 02 is confirmed", "entities": [{"start": 13, "end": 24, "label": "DATE"}]}
+{"id": "utt_1319", "text": "account holder is amy pena", "entities": [{"start": 18, "end": 26, "label": "PERSON_NAME"}]}
+{"id": "utt_1320", "text": "my name is holly jackson and my email is mhale at yahoo dot com", "entities": [{"start": 11, "end": 24, "label": "PERSON_NAME"}, {"start": 41, "end": 63, "label": "EMAIL"}]}
+{"id": "utt_1321", "text": "my name is sheila david and my email is jacobmarshall at hotmail dot com", "entities": [{"start": 11, "end": 23, "label": "PERSON_NAME"}, {"start": 40, "end": 72, "label": "EMAIL"}]}
+{"id": "utt_1322", "text": "charging card number 4439241096778975", "entities": [{"start": 21, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "utt_1323", "text": "i was born on 1990 one 11 in colinbury", "entities": [{"start": 14, "end": 25, "label": "DATE"}, {"start": 29, "end": 38, "label": "CITY"}]}
+{"id": "utt_1324", "text": "charging card number two hundred and thirteen trillion one hundred and eleven billion two hundred and sixty million three hundred and forty one thousand eight hundred and forty five", "entities": [{"start": 21, "end": 181, "label": "CREDIT_CARD"}]}
+{"id": "utt_1325", "text": "use card 501869899317 for this", "entities": [{"start": 9, "end": 21, "label": "CREDIT_CARD"}]}
+{"id": "utt_1326", "text": "payment of 6568489909128338 declined", "entities": [{"start": 11, "end": 27, "label": "CREDIT_CARD"}]}
+{"id": "utt_1327", "text": "hello this is charles owens speaking", "entities": [{"start": 14, "end": 27, "label": "PERSON_NAME"}]}
+{"id": "utt_1328", "text": "card 30469885935933 has expired", "entities": [{"start": 5, "end": 19, "label": "CREDIT_CARD"}]}
+{"id": "utt_1329", "text": "card four quintillion three hundred and thirteen quadrillion three hundred and eighty seven trillion three hundred and seventy nine billion three hundred and ninety one million five hundred and eighty one thousand four hundred and twenty two has expired", "entities": [{"start": 5, "end": 241, "label": "CREDIT_CARD"}]}
+{"id": "utt_1330", "text": "my credit card is four quadrillion eight hundred and thirty one trillion one hundred and sixty five billion one hundred and eighty four million eight hundred and twenty five thousand seven hundred and forty one", "entities": [{"start": 18, "end": 210, "label": "CREDIT_CARD"}]}
+{"id": "utt_1331", "text": "meet me at eight hundred and fifteen carrie ports suite six hundred and fifty two suite nine hundred and eight for the delivery", "entities": [{"start": 11, "end": 110, "label": "LOCATION"}]}
+{"id": "utt_1332", "text": "delivery to five hundred and fifteen wolfe orchard suite nine hundred and three suite five hundred and eighteen in georgeside", "entities": [{"start": 12, "end": 111, "label": "LOCATION"}, {"start": 115, "end": 125, "label": "CITY"}]}
+{"id": "utt_1333", "text": "payment of four quadrillion five hundred and thirty four trillion seven hundred billion six hundred and sixty one million six hundred and three thousand four hundred and sixty six declined", "entities": [{"start": 11, "end": 179, "label": "CREDIT_CARD"}]}
+{"id": "utt_1334", "text": "my number is 1 800 two hundred 2799", "entities": [{"start": 13, "end": 35, "label": "PHONE"}]}
+{"id": "utt_1335", "text": "account holder is peter odom", "entities": [{"start": 18, "end": 28, "label": "PERSON_NAME"}]}
+{"id": "utt_1336", "text": "i was born on 1974 ten twenty eight in east jacquelineborough", "entities": [{"start": 14, "end": 35, "label": "DATE"}, {"start": 39, "end": 61, "label": "CITY"}]}
+{"id": "utt_1337", "text": "account holder is corey taylor", "entities": [{"start": 18, "end": 30, "label": "PERSON_NAME"}]}
+{"id": "utt_1338", "text": "i was born on 1990 one 13 in natashashire", "entities": [{"start": 14, "end": 25, "label": "DATE"}, {"start": 29, "end": 41, "label": "CITY"}]}
+{"id": "utt_1339", "text": "my credit card is three hundred and forty four trillion five hundred and thirty seven billion seven hundred and seventy nine million twenty five thousand one hundred and nineteen", "entities": [{"start": 18, "end": 178, "label": "CREDIT_CARD"}]}
+{"id": "utt_1340", "text": "use card 213153026760140 for this", "entities": [{"start": 9, "end": 24, "label": "CREDIT_CARD"}]}
+{"id": "utt_1341", "text": "hello this is jason stephens speaking", "entities": [{"start": 14, "end": 28, "label": "PERSON_NAME"}]}
+{"id": "utt_1342", "text": "account holder is rachel lee", "entities": [{"start": 18, "end": 28, "label": "PERSON_NAME"}]}
+{"id": "utt_1343", "text": "my name is amy king and my email is osutton at yahoo dot com", "entities": [{"start": 11, "end": 19, "label": "PERSON_NAME"}, {"start": 36, "end": 60, "label": "EMAIL"}]}
+{"id": "utt_1344", "text": "i was born on 2011 three 13 in west marthastad", "entities": [{"start": 14, "end": 27, "label": "DATE"}, {"start": 31, "end": 46, "label": "CITY"}]}
+{"id": "utt_1345", "text": "verify account jamesdalton at gmail dot com", "entities": [{"start": 15, "end": 43, "label": "EMAIL"}]}
+{"id": "utt_1346", "text": "meet me at 443 anderson mountain apt dot 104 suite 458 for the delivery", "entities": [{"start": 11, "end": 54, "label": "LOCATION"}]}
+{"id": "utt_1347", "text": "verify account jenniferchase at gmail dot com", "entities": [{"start": 15, "end": 45, "label": "EMAIL"}]}
+{"id": "utt_1348", "text": "hello this is kevin smith speaking", "entities": [{"start": 14, "end": 25, "label": "PERSON_NAME"}]}
+{"id": "utt_1349", "text": "use card six quadrillion eleven trillion three hundred and fifty four billion one hundred and sixty one million eight hundred and sixty six thousand seven hundred and seventy two for this", "entities": [{"start": 9, "end": 178, "label": "CREDIT_CARD"}]}
+{"id": "utt_1350", "text": "verify account dawnbright at hotmail dot com", "entities": [{"start": 15, "end": 44, "label": "EMAIL"}]}
+{"id": "utt_1351", "text": "reach me at 592 944 6459", "entities": [{"start": 12, "end": 24, "label": "PHONE"}]}
+{"id": "utt_1352", "text": "meet me at 4398 denise square suite 329 for the delivery", "entities": [{"start": 11, "end": 39, "label": "LOCATION"}]}
+{"id": "utt_1353", "text": "my name is sandra espinoza and my email is jerryhicks at gmail dot com", "entities": [{"start": 11, "end": 26, "label": "PERSON_NAME"}, {"start": 43, "end": 70, "label": "EMAIL"}]}
+{"id": "utt_1354", "text": "my credit card is six hundred and thirty nine billion forty seven million seven hundred and twenty thousand four hundred and eighty two", "entities": [{"start": 18, "end": 135, "label": "CREDIT_CARD"}]}
+{"id": "utt_1355", "text": "verify account meyerjeffrey at yahoo dot com", "entities": [{"start": 15, "end": 44, "label": "EMAIL"}]}
+{"id": "utt_1356", "text": "card two quadrillion seven hundred and thirteen trillion eight hundred and eighty one billion forty six million five hundred and seventy five thousand eight hundred and eighty nine has expired", "entities": [{"start": 5, "end": 180, "label": "CREDIT_CARD"}]}
+{"id": "utt_1357", "text": "hello this is michael valdez speaking", "entities": [{"start": 14, "end": 28, "label": "PERSON_NAME"}]}
+{"id": "utt_1358", "text": "charging card number one hundred and eighty trillion seventy seven billion eight hundred and sixty one million two hundred and ninety nine thousand nine hundred and sixty four", "entities": [{"start": 21, "end": 175, "label": "CREDIT_CARD"}]}
+{"id": "utt_1359", "text": "my credit card is 38778006518226", "entities": [{"start": 18, "end": 32, "label": "CREDIT_CARD"}]}
+{"id": "utt_1360", "text": "schedule for 1991 05 three is confirmed", "entities": [{"start": 13, "end": 26, "label": "DATE"}]}
+{"id": "utt_1361", "text": "delivery to three hundred and fifty one watson loop apt dot 104 apt dot 175 in north ernest", "entities": [{"start": 12, "end": 75, "label": "LOCATION"}, {"start": 79, "end": 91, "label": "CITY"}]}
+{"id": "utt_1362", "text": "account holder is miranda bishop", "entities": [{"start": 18, "end": 32, "label": "PERSON_NAME"}]}
+{"id": "utt_1363", "text": "delivery to one thousand two hundred and eighty sanchez trail suite five hundred and twenty one in west bianca", "entities": [{"start": 12, "end": 95, "label": "LOCATION"}, {"start": 99, "end": 110, "label": "CITY"}]}
+{"id": "utt_1364", "text": "call me at 1 five hundred and eighty three 300 7990x099 regarding the issue", "entities": [{"start": 11, "end": 55, "label": "PHONE"}]}
+{"id": "utt_1365", "text": "card 3505600303971759 has expired", "entities": [{"start": 5, "end": 21, "label": "CREDIT_CARD"}]}
+{"id": "utt_1366", "text": "meet me at 8949 schultz creek apt dot 050 suite 081 for the delivery", "entities": [{"start": 11, "end": 51, "label": "LOCATION"}]}
+{"id": "utt_1367", "text": "i was born on 1998 10 06 in brandyville", "entities": [{"start": 14, "end": 24, "label": "DATE"}, {"start": 28, "end": 39, "label": "CITY"}]}
+{"id": "utt_1368", "text": "my name is debra oconnor and my email is amanda60 at yahoo dot com", "entities": [{"start": 11, "end": 24, "label": "PERSON_NAME"}, {"start": 41, "end": 66, "label": "EMAIL"}]}
+{"id": "utt_1369", "text": "call me at 844 dot two hundred and eighteen dot 2420x12005 regarding the issue", "entities": [{"start": 11, "end": 58, "label": "PHONE"}]}
+{"id": "utt_1370", "text": "charging card number four quintillion five hundred and eighty six quadrillion eight hundred and twenty seven trillion four hundred and twenty four billion six hundred and seven million five hundred and eighty five thousand nine hundred and thirty nine", "entities": [{"start": 21, "end": 251, "label": "CREDIT_CARD"}]}
+{"id": "utt_1371", "text": "verify account stephanie34 at hotmail dot com", "entities": [{"start": 15, "end": 45, "label": "EMAIL"}]}
+{"id": "utt_1372", "text": "use card 379421161903704 for this", "entities": [{"start": 9, "end": 24, "label": "CREDIT_CARD"}]}
+{"id": "utt_1373", "text": "use card three quadrillion five hundred and seventy six trillion ninety nine billion ninety eight million one hundred and thirty eight thousand and eighty four for this", "entities": [{"start": 9, "end": 159, "label": "CREDIT_CARD"}]}
+{"id": "utt_1374", "text": "schedule for 2013 11 23 is confirmed", "entities": [{"start": 13, "end": 23, "label": "DATE"}]}
+{"id": "utt_1375", "text": "verify account ryan83 at yahoo dot com", "entities": [{"start": 15, "end": 38, "label": "EMAIL"}]}
+{"id": "utt_1376", "text": "my number is 370 seven hundred and seventy three six thousand three hundred and thirty three", "entities": [{"start": 13, "end": 92, "label": "PHONE"}]}
+{"id": "utt_1377", "text": "account holder is sarah nguyen", "entities": [{"start": 18, "end": 30, "label": "PERSON_NAME"}]}
+{"id": "utt_1378", "text": "meet me at 109 avila turnpike apt dot one hundred and thirty eight suite 602 for the delivery", "entities": [{"start": 11, "end": 76, "label": "LOCATION"}]}
+{"id": "utt_1379", "text": "my name is tanya perkins and my email is tcook at yahoo dot com", "entities": [{"start": 11, "end": 24, "label": "PERSON_NAME"}, {"start": 41, "end": 63, "label": "EMAIL"}]}
+{"id": "utt_1380", "text": "hello this is kenneth walker speaking", "entities": [{"start": 14, "end": 28, "label": "PERSON_NAME"}]}
+{"id": "utt_1381", "text": "schedule for 2001 one 13 is confirmed", "entities": [{"start": 13, "end": 24, "label": "DATE"}]}
+{"id": "utt_1382", "text": "reach me at three hundred and forty four five hundred and fifty seven 3341x7761", "entities": [{"start": 12, "end": 79, "label": "PHONE"}]}
+{"id": "utt_1383", "text": "verify account kimberlyskinner at gmail dot com", "entities": [{"start": 15, "end": 47, "label": "EMAIL"}]}
+{"id": "utt_1384", "text": "verify account sosacatherine at gmail dot com", "entities": [{"start": 15, "end": 45, "label": "EMAIL"}]}
+{"id": "utt_1385", "text": "call me at 262 799 8330x51470 regarding the issue", "entities": [{"start": 11, "end": 29, "label": "PHONE"}]}
+{"id": "utt_1386", "text": "schedule for 1988 02 three is confirmed", "entities": [{"start": 13, "end": 26, "label": "DATE"}]}
+{"id": "utt_1387", "text": "reach me at 223 689 9132x506", "entities": [{"start": 12, "end": 28, "label": "PHONE"}]}
+{"id": "utt_1388", "text": "payment of five hundred and eighty four billion four hundred and eighty five million three hundred and ninety six thousand two hundred and sixty four declined", "entities": [{"start": 11, "end": 149, "label": "CREDIT_CARD"}]}
+{"id": "utt_1389", "text": "hello this is danielle olson speaking", "entities": [{"start": 14, "end": 28, "label": "PERSON_NAME"}]}
+{"id": "utt_1390", "text": "i was born on 2025 ten 16 in christinastad", "entities": [{"start": 14, "end": 25, "label": "DATE"}, {"start": 29, "end": 42, "label": "CITY"}]}
+{"id": "utt_1391", "text": "reach me at 799 dot 425 dot 8422x0902", "entities": [{"start": 12, "end": 37, "label": "PHONE"}]}
+{"id": "utt_1392", "text": "schedule for 1974 seven 28 is confirmed", "entities": [{"start": 13, "end": 26, "label": "DATE"}]}
+{"id": "utt_1393", "text": "call me at 1 497 244 eight thousand six hundred and twenty nine regarding the issue", "entities": [{"start": 11, "end": 63, "label": "PHONE"}]}
+{"id": "utt_1394", "text": "my number is eight billion two million eight hundred and forty seven thousand four hundred and ninety five", "entities": [{"start": 13, "end": 106, "label": "PHONE"}]}
+{"id": "utt_1395", "text": "account holder is joann griffith", "entities": [{"start": 18, "end": 32, "label": "PERSON_NAME"}]}
+{"id": "utt_1396", "text": "my name is debra mcdonald and my email is kaitlindecker at gmail dot com", "entities": [{"start": 11, "end": 25, "label": "PERSON_NAME"}, {"start": 42, "end": 72, "label": "EMAIL"}]}
+{"id": "utt_1397", "text": "payment of 4164427334784 declined", "entities": [{"start": 11, "end": 24, "label": "CREDIT_CARD"}]}
+{"id": "utt_1398", "text": "schedule for 2020 one twenty three is confirmed", "entities": [{"start": 13, "end": 34, "label": "DATE"}]}
+{"id": "utt_1399", "text": "account holder is sara contreras", "entities": [{"start": 18, "end": 32, "label": "PERSON_NAME"}]}

@@ -1,0 +1,5 @@
+torch
+transformers
+faker
+num2words
+tqdm
